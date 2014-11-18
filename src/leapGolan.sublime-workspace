@@ -1,0 +1,937 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ser",
+				"serial"
+			],
+			[
+				"tok",
+				"token_secret"
+			],
+			[
+				"consumer",
+				"consumer_secret"
+			],
+			[
+				"doc",
+				"docH"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"First",
+				"FirstClass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "LeapVisualizer.cpp",
+			"settings":
+			{
+				"buffer_size": 22967,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "LeapVisualizer.h",
+			"settings":
+			{
+				"buffer_size": 1485,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 343,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ofApp.cpp",
+			"settings":
+			{
+				"buffer_size": 15935,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ofApp.h",
+			"settings":
+			{
+				"buffer_size": 959,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_ofxLeap_nov3/src/LeapRecorder.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_ofxLeap_nov3/src/LeapRecorder.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_ofxLeap_nov3/src/LeapHand.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_ofxLeap_nov3/src/LeapHand.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_ofxLeap_nov3/src/LeapFrame.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_ofxLeap_nov3/src/LeapFrame.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_ofxLeap_nov3/src/LeapFinger.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_ofxLeap_nov3/src/LeapFinger.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_ofxLeap_nov3/src/LeapBone.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_ofxLeap_nov3/src/LeapBone.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/ofApp.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/ofApp.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/main.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapVisualizer.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapVisualizer.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapToCameraCalibrator.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapToCameraCalibrator.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapRecorder.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapRecorder.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapHand.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapHand.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapFrame.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapFrame.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapFinger.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapFinger.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapBone.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/LeapBone.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/src/FingerTipCalibRecorder.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/ofApp.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/ofApp.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/main.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapVisualizer.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapVisualizer.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapToCameraCalibrator.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapToCameraCalibrator.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/Makefile",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapRecorder.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapRecorder.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapHand.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapHand.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapFrame.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapFrame.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapFinger.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapFinger.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapBone.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/LeapBone.cpp",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/src/FingerTipCalibRecorder.h",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/addons.make",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/ofxLeapGolan/config.make",
+		"/home/jefferson/Dropbox/of_v0.8.2_linux_release/apps/myApps/leapGolan_nov_03/addons.make",
+		"/home/jefferson/Dropbox/LeapDeveloperKit_2.1.5+22699_linux/LeapSDK/mySamples/Sample.cpp",
+		"/home/jefferson/Dropbox/LeapDeveloperKit_2.1.5+22699_linux/LeapSDK/mySamples/leapOSC/src/leapOSC.cpp",
+		"/home/jefferson/Dropbox/LeapDeveloperKit_2.1.5+22699_linux/LeapSDK/mySamples/originalSample.cpp",
+		"/home/jefferson/Dropbox/LeapDeveloperKit_2.1.5+22699_linux/LeapSDK/samples/Sample.cpp",
+		"/home/jefferson/Dropbox/cmu/hybInst/waterLevel_datPhys/python/marea.py",
+		"/home/jefferson/Dropbox/puredata/gesture-recognition-toolkit-read-only/GRTBuild/README.txt",
+		"/home/jefferson/Dropbox/puredata/ml-lib/build/flext/build.config",
+		"/home/jefferson/Dropbox/LeapDeveloperKit_2.1.5+22699_linux/LeapSDK/samples/originalSample.cpp",
+		"/home/jefferson/Dropbox/LeapDeveloperKit_2.1.5+22699_linux/LeapSDK/samples/test.cpp",
+		"/home/jefferson/Dropbox/python/marea/serialTest.py",
+		"/home/jefferson/Dropbox/python/webcamToTumblr/python script for hooking up to tumblr api.txt",
+		"/home/jefferson/Dropbox/python/marea/marea.py",
+		"/home/jefferson/Dropbox/cmu/mti/README.md",
+		"/home/jefferson/Dropbox/python/webcamToFlickr/newWebcamToFlickr.py",
+		"/home/jefferson/Dropbox/python/webcamToTumblr/webcamToTumblr.py",
+		"/home/jefferson/Dropbox/python/webcamToTumblr/tumblr_keys.py",
+		"/home/jefferson/Dropbox/puredata/touch and activate testing/demo_peak-abs.pd",
+		"/home/jefferson/Dropbox/python/webcamToFlickr/flickr_keys.py",
+		"/home/jefferson/Dropbox/python/webcamToTumblr/untitled",
+		"/home/jefferson/Dropbox/python/webcamToFlickr/webcamToFlickr.py",
+		"/home/jefferson/Dropbox/python/webcamToFlickr/keys.py",
+		"/home/jefferson/Dropbox/Processing/mosaico/mosaico.pde",
+		"/home/jefferson/Dropbox/Processing/2dArrays.pde",
+		"/home/jefferson/p5/draft/index.html",
+		"/home/jefferson/p5/draft/sketch.js",
+		"/home/jefferson/Documents/of_v0.8.2_linux_release/addons/ofxWiringPi/config.make",
+		"/home/jefferson/Dropbox/Processing/ejemplo1/ejemplo1.pde",
+		"/home/jefferson/index.html",
+		"/home/jefferson/p5/empty-example/sketch.js",
+		"/home/jefferson/p5/empty-example/index.html",
+		"/home/jefferson/Dropbox/puredata/webpd/index.html",
+		"/home/jefferson/Documents/puredata/metasite/html/index.html",
+		"/etc/icecast2/icecast.xml",
+		"/home/jefferson/Documents/python/ctabustracker.py",
+		"/home/jefferson/Dropbox/Processing/generativeCircles/generativeCircles.pde",
+		"/home/jefferson/Documents/puredata/metasite/newhtml/index.html",
+		"/home/jefferson/Documents/of_v0.8.0_linux_release/apps/myApps/3DPrimitivesExample/src/testApp.cpp",
+		"/home/jefferson/Documents/of_v0.8.0_linux_release/apps/myApps/3DPrimitivesExample/src/testApp.h",
+		"/home/jefferson/Documents/of_v0.8.0_linux_release/examples/3d/3DPrimitivesExample/src/testApp.h",
+		"/home/jefferson/Documents/of_v0.8.0_linux_release/examples/3d/3DPrimitivesExample/src/testApp.cpp",
+		"/home/jefferson/Documents/of_v0.8.0_linux_release/examples/3d/3DPrimitivesExample/src/main.cpp",
+		"/home/jefferson/Documents/of_v0.8.0_linux_release/examples/graphics/floatingPointImageExample/src/testApp.h",
+		"/home/jefferson/Documents/of_v0.8.0_linux_release/examples/graphics/floatingPointImageExample/src/testApp.cpp",
+		"/home/jefferson/Documents/of_v0.8.0_linux_release/examples/graphics/floatingPointImageExample/src/main.cpp",
+		"/home/jefferson/Documents/of_v0.8.0_linux_release/examples/addons/opencvExample/src/testApp.h",
+		"/home/jefferson/Documents/of_v0.8.0_linux_release/examples/addons/opencvExample/src/testApp.cpp",
+		"/home/jefferson/Documents/of_v0.8.0_linux_release/examples/addons/opencvExample/src/main.cpp",
+		"/home/jefferson/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/jefferson/.config/sublime-text-2/Packages/User/C++.sublime-settings",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/html/en/documents.html",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/html/en/creators.html",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/html/en/gallery.html",
+		"/home/jefferson/.config/sublime-text-2/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/html/en/write.html",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/html/sp/write.html",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/html/sp/documents.html",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/html/en/index.html",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/html/index.html",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/html/sp/creators.html",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/html/sp/gallery.html",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/html/css/main.css",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/html/landing.html",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/newhtml/index.html",
+		"/home/jefferson/Documents/Bootstrap/dist/metasite/newhtml/landing.html",
+		"/home/jefferson/Documents/Bootstrap/dist/metaCarousel.html",
+		"/home/jefferson/Documents/Bootstrap/dist/index.html",
+		"/home/jefferson/Documents/python/myprint.py",
+		"/home/jefferson/Documents/c++/hello/firstClass.cpp",
+		"/home/jefferson/Documents/c++/hello/FirstClass.h",
+		"/home/jefferson/Documents/c++/hello/main.cpp",
+		"/home/jefferson/Documents/programing-interactivity-code/ch05/0501/main.cpp",
+		"/home/jefferson/Documents/programing-interactivity-code/ch05/0501/FirstClass.h",
+		"/home/jefferson/Documents/programing-interactivity-code/ch05/0501/FirstClass.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\"timeStamp\":1402093040062,\"d\":[{\"vehicle\":\"Caribeña\",\"assetId\":1113,\"trail\":[{\"lat\":18.335131,\"lng\":-65.630801}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124074,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"Cayo Blanco\",\"assetId\":1117,\"trail\":[{\"lat\":18.335141,\"lng\":-65.630493},{\"lat\":18.335279,\"lng\":-65.630399},{\"lat\":18.33544,\"lng\":-65.630303}],\"status\":\"RUNNING\",\"positionChange\":1402092874080,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"Cayo Largo\",\"assetId\":1118,\"trail\":[{\"lat\":18.291345,\"lng\":-65.099005}],\"status\":\"NOT_REPORTING\",\"positionChange\":1401851124141,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"Cayo Norte\",\"assetId\":1119,\"trail\":[{\"lat\":18.335596,\"lng\":-65.63092}],\"status\":\"IDLE\",\"positionChange\":1402091964084,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"Isla Bonita\",\"assetId\":1121,\"trail\":[{\"lat\":18.152383,\"lng\":-65.443831},{\"lat\":18.152378,\"lng\":-65.444033},{\"lat\":18.152401,\"lng\":-65.44419}],\"status\":\"RUNNING\",\"positionChange\":1402092234084,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"Isleño\",\"assetId\":1120,\"trail\":[{\"lat\":18.33496,\"lng\":-65.631182}],\"status\":\"IDLE\",\"positionChange\":1401851124151,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"Santa Maria\",\"assetId\":1122,\"trail\":[{\"lat\":18.303006,\"lng\":-65.398256},{\"lat\":18.302973,\"lng\":-65.398777},{\"lat\":18.302928,\"lng\":-65.399305}],\"status\":\"RUNNING\",\"positionChange\":1402093034079,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"5.549429\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"09-17\",\"assetId\":951,\"trail\":[{\"lat\":18.388135,\"lng\":-66.080776}],\"status\":\"STOPPED\",\"positionChange\":1401851124157,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2002-09\",\"assetId\":928,\"trail\":[{\"lat\":18.41164,\"lng\":-66.1003},{\"lat\":18.41159,\"lng\":-66.100453},{\"lat\":18.41151,\"lng\":-66.100688}],\"status\":\"RUNNING\",\"positionChange\":1402093034092,\"route\":\"19\",\"inRoute\":true,\"possibleRoutes\":\"19\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"4.173225\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-06\",\"assetId\":822,\"trail\":[{\"lat\":18.377568,\"lng\":-66.054874},{\"lat\":18.378169,\"lng\":-66.054979},{\"lat\":18.378663,\"lng\":-66.055098}],\"status\":\"RUNNING\",\"positionChange\":1402093034109,\"route\":\"18\",\"inRoute\":true,\"possibleRoutes\":\"18\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"sur\",\"avgSpeed\":\"3.9039931\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-14\",\"assetId\":829,\"trail\":[{\"lat\":18.421708,\"lng\":-65.99207},{\"lat\":18.421881,\"lng\":-65.991986},{\"lat\":18.421985,\"lng\":-65.991749}],\"status\":\"RUNNING\",\"positionChange\":1402092264142,\"route\":\"5\",\"inRoute\":true,\"possibleRoutes\":\"5\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-22\",\"assetId\":847,\"trail\":[{\"lat\":18.38846,\"lng\":-66.080215}],\"status\":\"STOPPED\",\"positionChange\":1402045114201,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"noreste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-24\",\"assetId\":865,\"trail\":[{\"lat\":18.389931,\"lng\":-66.141191},{\"lat\":18.389763,\"lng\":-66.141214},{\"lat\":18.389553,\"lng\":-66.141244}],\"status\":\"RUNNING\",\"positionChange\":1402093034153,\"route\":\"91\",\"inRoute\":true,\"possibleRoutes\":\"91\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"norte\",\"avgSpeed\":\"5.5278473\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-27\",\"assetId\":842,\"trail\":[{\"lat\":18.406458,\"lng\":-65.978027},{\"lat\":18.406458,\"lng\":-65.978288},{\"lat\":18.406476,\"lng\":-65.97868}],\"status\":\"RUNNING\",\"positionChange\":1402093014183,\"route\":\"48\",\"inRoute\":true,\"possibleRoutes\":\"48\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"3.9624932\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-30\",\"assetId\":869,\"trail\":[{\"lat\":18.391785,\"lng\":-65.955287},{\"lat\":18.391751,\"lng\":-65.955836},{\"lat\":18.391701,\"lng\":-65.956331}],\"status\":\"RUNNING\",\"positionChange\":1402093034206,\"route\":\"44\",\"inRoute\":true,\"possibleRoutes\":\"44\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"6.331881\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-27\",\"assetId\":927,\"trail\":[{\"lat\":18.409818,\"lng\":-66.055105},{\"lat\":18.409988,\"lng\":-66.055133},{\"lat\":18.410138,\"lng\":-66.055108}],\"status\":\"RUNNING\",\"positionChange\":1402092814241,\"route\":\"41\",\"inRoute\":true,\"possibleRoutes\":\"41\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-29\",\"assetId\":836,\"trail\":[{\"lat\":18.40002,\"lng\":-66.043614}],\"status\":\"STOPPED\",\"positionChange\":1402082314307,\"route\":\"18\",\"inRoute\":true,\"possibleRoutes\":\"18,31,29,4\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"20068\",\"assetId\":816,\"trail\":[{\"lat\":18.388851,\"lng\":-66.081315}],\"status\":\"STOPPED\",\"positionChange\":1401851124190,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-05\",\"assetId\":932,\"trail\":[{\"lat\":18.387733,\"lng\":-66.081575}],\"status\":\"STOPPED\",\"positionChange\":1401941214256,\"route\":\"52\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"9.409362\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-14\",\"assetId\":891,\"trail\":[{\"lat\":18.38844,\"lng\":-66.080099}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124196,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-12\",\"assetId\":1001,\"trail\":[{\"lat\":18.388209,\"lng\":-66.080191}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124199,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-10 (07)\",\"assetId\":1103,\"trail\":[{\"lat\":18.387983,\"lng\":-66.081716}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124202,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-11 (08)\",\"assetId\":1104,\"trail\":[{\"lat\":18.38799,\"lng\":-66.08171}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124211,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-12 (06)\",\"assetId\":1102,\"trail\":[{\"lat\":18.388019,\"lng\":-66.081641}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124214,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-14 (10)\",\"assetId\":1106,\"trail\":[{\"lat\":18.388018,\"lng\":-66.081591}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124217,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-15 (11)\",\"assetId\":1107,\"trail\":[{\"lat\":18.388031,\"lng\":-66.081563}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124220,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2002-01\",\"assetId\":856,\"trail\":[{\"lat\":18.388548,\"lng\":-66.080265}],\"status\":\"STOPPED\",\"positionChange\":1401925454422,\"route\":\"4\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"2.0973947\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2002-02\",\"assetId\":883,\"trail\":[{\"lat\":18.387645,\"lng\":-66.081316}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401894164204,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2002-03\",\"assetId\":819,\"trail\":[{\"lat\":18.387656,\"lng\":-66.081551}],\"status\":\"STOPPED\",\"positionChange\":1401898834220,\"route\":\"4\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"6.9320307\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2002-04\",\"assetId\":818,\"trail\":[{\"lat\":18.398818,\"lng\":-66.067212},{\"lat\":18.399008,\"lng\":-66.06712},{\"lat\":18.399196,\"lng\":-66.067025}],\"status\":\"RUNNING\",\"positionChange\":1402093034317,\"route\":\"49\",\"inRoute\":true,\"possibleRoutes\":\"49\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"5.958087\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2002-05\",\"assetId\":884,\"trail\":[{\"lat\":18.387803,\"lng\":-66.081469}],\"status\":\"STOPPED\",\"positionChange\":1402069874353,\"route\":\"52\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"sur\",\"avgSpeed\":\"6.431319\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2002-06\",\"assetId\":824,\"trail\":[{\"lat\":18.387848,\"lng\":-66.081545}],\"status\":\"STOPPED\",\"positionChange\":1402064674332,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2002-07\",\"assetId\":817,\"trail\":[{\"lat\":18.439783,\"lng\":-66.018406}],\"status\":\"NOT_REPORTING\",\"positionChange\":1402091464328,\"route\":\"50\",\"inRoute\":true,\"possibleRoutes\":\"50\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2002-08\",\"assetId\":820,\"trail\":[{\"lat\":18.374096,\"lng\":-66.170415},{\"lat\":18.374178,\"lng\":-66.170303},{\"lat\":18.374204,\"lng\":-66.170128}],\"status\":\"RUNNING\",\"positionChange\":1402093024418,\"route\":\"92\",\"inRoute\":true,\"possibleRoutes\":\"92\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"2.5615075\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2002-10\",\"assetId\":825,\"trail\":[{\"lat\":18.421716,\"lng\":-65.992228}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124247,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"20023\",\"assetId\":1085,\"trail\":[{\"lat\":18.38789,\"lng\":-66.08157}],\"status\":\"STOPPED\",\"positionChange\":1401937684645,\"route\":\"4\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"20024\",\"assetId\":1090,\"trail\":[{\"lat\":18.388421,\"lng\":-66.080083}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124255,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-01\",\"assetId\":843,\"trail\":[{\"lat\":18.3876,\"lng\":-66.08143}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124258,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-02\",\"assetId\":864,\"trail\":[{\"lat\":18.388535,\"lng\":-66.081005}],\"status\":\"STOPPED\",\"positionChange\":1402072404363,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-03\",\"assetId\":839,\"trail\":[{\"lat\":18.420368,\"lng\":-65.995785},{\"lat\":18.420091,\"lng\":-65.996318},{\"lat\":18.419858,\"lng\":-65.996685}],\"status\":\"RUNNING\",\"positionChange\":1402093034419,\"route\":\"41\",\"inRoute\":true,\"possibleRoutes\":\"41\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"noreste\",\"avgSpeed\":\"7.432502\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-05\",\"assetId\":893,\"trail\":[{\"lat\":18.388116,\"lng\":-66.080105}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124268,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-07\",\"assetId\":941,\"trail\":[{\"lat\":18.388849,\"lng\":-66.081038}],\"status\":\"STOPPED\",\"positionChange\":1401931704379,\"route\":\"52\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.81697834\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-08\",\"assetId\":887,\"trail\":[{\"lat\":18.388531,\"lng\":-66.080164}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124275,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-09\",\"assetId\":851,\"trail\":[{\"lat\":18.387846,\"lng\":-66.081376}],\"status\":\"LOW_BATTERY\",\"positionChange\":1402079764713,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-10\",\"assetId\":863,\"trail\":[{\"lat\":18.388081,\"lng\":-66.081494}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124280,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-11\",\"assetId\":879,\"trail\":[{\"lat\":18.388484,\"lng\":-66.079832}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124283,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-12\",\"assetId\":844,\"trail\":[{\"lat\":18.388481,\"lng\":-66.079953}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124286,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-13\",\"assetId\":858,\"trail\":[{\"lat\":18.415888,\"lng\":-65.992769}],\"status\":\"IDLE\",\"positionChange\":1401851124289,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-15\",\"assetId\":841,\"trail\":[{\"lat\":18.390781,\"lng\":-66.102281},{\"lat\":18.390666,\"lng\":-66.10257},{\"lat\":18.390251,\"lng\":-66.102733}],\"status\":\"RUNNING\",\"positionChange\":1402092414437,\"route\":\"52\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-16\",\"assetId\":826,\"trail\":[{\"lat\":18.388543,\"lng\":-66.080826}],\"status\":\"STOPPED\",\"positionChange\":1401851124295,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-17\",\"assetId\":892,\"trail\":[{\"lat\":18.388463,\"lng\":-66.079876}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124298,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-18\",\"assetId\":852,\"trail\":[{\"lat\":18.423241,\"lng\":-65.978301},{\"lat\":18.42346,\"lng\":-65.978313},{\"lat\":18.423763,\"lng\":-65.978335}],\"status\":\"RUNNING\",\"positionChange\":1402093034463,\"route\":\"43\",\"inRoute\":true,\"possibleRoutes\":\"43\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"sur\",\"avgSpeed\":\"3.6551633\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-19\",\"assetId\":827,\"trail\":[{\"lat\":18.387545,\"lng\":-66.081455}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124306,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-20\",\"assetId\":949,\"trail\":[{\"lat\":18.388051,\"lng\":-66.081633}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124310,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-21\",\"assetId\":840,\"trail\":[{\"lat\":18.38813,\"lng\":-66.081137}],\"status\":\"STOPPED\",\"positionChange\":1401851124313,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-23\",\"assetId\":834,\"trail\":[{\"lat\":18.417051,\"lng\":-66.076693},{\"lat\":18.416983,\"lng\":-66.076848},{\"lat\":18.416906,\"lng\":-66.077051}],\"status\":\"RUNNING\",\"positionChange\":1402093024566,\"route\":\"17\",\"inRoute\":true,\"possibleRoutes\":\"17\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"5.9694905\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-25\",\"assetId\":962,\"trail\":[{\"lat\":18.395283,\"lng\":-65.982074},{\"lat\":18.395843,\"lng\":-65.982241},{\"lat\":18.396418,\"lng\":-65.982343}],\"status\":\"RUNNING\",\"positionChange\":1402093034519,\"route\":\"46\",\"inRoute\":true,\"possibleRoutes\":\"46\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"sur\",\"avgSpeed\":\"5.371625\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-26\",\"assetId\":830,\"trail\":[{\"lat\":18.388205,\"lng\":-66.081035}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124324,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-28\",\"assetId\":837,\"trail\":[{\"lat\":18.388343,\"lng\":-66.080225}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124328,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2004-29\",\"assetId\":872,\"trail\":[{\"lat\":18.394284,\"lng\":-66.03144},{\"lat\":18.394635,\"lng\":-66.031451},{\"lat\":18.394856,\"lng\":-66.031459}],\"status\":\"RUNNING\",\"positionChange\":1402093034543,\"route\":\"26\",\"inRoute\":true,\"possibleRoutes\":\"26\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"sur\",\"avgSpeed\":\"0.742816\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-02\",\"assetId\":876,\"trail\":[{\"lat\":18.388659,\"lng\":-66.082246}],\"status\":\"STOPPED\",\"positionChange\":1401896804442,\"route\":\"4\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"2.8850734\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-03\",\"assetId\":853,\"trail\":[{\"lat\":18.421426,\"lng\":-66.067041},{\"lat\":18.421491,\"lng\":-66.066731},{\"lat\":18.421561,\"lng\":-66.066379}],\"status\":\"RUNNING\",\"positionChange\":1402092954600,\"route\":\"22\",\"inRoute\":true,\"possibleRoutes\":\"22\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"1.3483329\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-05\",\"assetId\":828,\"trail\":[{\"lat\":18.388506,\"lng\":-66.080196}],\"status\":\"LOW_BATTERY\",\"positionChange\":1402036164744,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-06\",\"assetId\":929,\"trail\":[{\"lat\":18.388716,\"lng\":-66.080085}],\"status\":\"STOPPED\",\"positionChange\":1401992534731,\"route\":\"28\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-07\",\"assetId\":867,\"trail\":[{\"lat\":18.421735,\"lng\":-65.992217}],\"status\":\"IDLE\",\"positionChange\":1402090264548,\"route\":\"44\",\"inRoute\":true,\"possibleRoutes\":\"44\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-09\",\"assetId\":860,\"trail\":[{\"lat\":18.439771,\"lng\":-66.123356},{\"lat\":18.439796,\"lng\":-66.123195},{\"lat\":18.439928,\"lng\":-66.123155}],\"status\":\"RUNNING\",\"positionChange\":1402093034626,\"route\":\"37\",\"inRoute\":true,\"possibleRoutes\":\"37\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"sur\",\"avgSpeed\":\"6.4956694\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-11\",\"assetId\":886,\"trail\":[{\"lat\":18.388281,\"lng\":-66.081576}],\"status\":\"STOPPED\",\"positionChange\":1402054644759,\"route\":\"45\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"0.16508427\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-12\",\"assetId\":943,\"trail\":[{\"lat\":18.387954,\"lng\":-66.0818}],\"status\":\"STOPPED\",\"positionChange\":1401927934754,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"norte\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-13\",\"assetId\":875,\"trail\":[{\"lat\":18.416806,\"lng\":-66.101191},{\"lat\":18.41748,\"lng\":-66.100697},{\"lat\":18.418158,\"lng\":-66.100195}],\"status\":\"RUNNING\",\"positionChange\":1402093034669,\"route\":\"8\",\"inRoute\":true,\"possibleRoutes\":\"8\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"14.815193\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-14\",\"assetId\":926,\"trail\":[{\"lat\":18.388696,\"lng\":-66.080591}],\"status\":\"STOPPED\",\"positionChange\":1402046124798,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-15\",\"assetId\":890,\"trail\":[{\"lat\":18.377266,\"lng\":-65.981091},{\"lat\":18.377223,\"lng\":-65.981076},{\"lat\":18.377068,\"lng\":-65.981035}],\"status\":\"RUNNING\",\"positionChange\":1402093034700,\"route\":\"46\",\"inRoute\":true,\"possibleRoutes\":\"46\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"noroeste\",\"avgSpeed\":\"7.086797\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-17\",\"assetId\":896,\"trail\":[{\"lat\":18.397675,\"lng\":-66.031406}],\"status\":\"NOT_REPORTING\",\"positionChange\":1402091634548,\"route\":\"41\",\"inRoute\":true,\"possibleRoutes\":\"41\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-19\",\"assetId\":854,\"trail\":[{\"lat\":18.36076,\"lng\":-66.116031},{\"lat\":18.36074,\"lng\":-66.115883},{\"lat\":18.360706,\"lng\":-66.115387}],\"status\":\"RUNNING\",\"positionChange\":1402093034732,\"route\":\"27\",\"inRoute\":true,\"possibleRoutes\":\"27\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"7.6476007\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-20\",\"assetId\":939,\"trail\":[{\"lat\":18.421946,\"lng\":-65.99182}],\"status\":\"NOT_REPORTING\",\"positionChange\":1402090664650,\"route\":\"41\",\"inRoute\":true,\"possibleRoutes\":\"41\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-21\",\"assetId\":889,\"trail\":[{\"lat\":18.406876,\"lng\":-66.102483},{\"lat\":18.407191,\"lng\":-66.10269},{\"lat\":18.407476,\"lng\":-66.10287}],\"status\":\"RUNNING\",\"positionChange\":1402093024816,\"route\":\"28\",\"inRoute\":true,\"possibleRoutes\":\"28\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"sureste\",\"avgSpeed\":\"2.012343\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-22\",\"assetId\":880,\"trail\":[{\"lat\":18.369525,\"lng\":-66.088759},{\"lat\":18.369076,\"lng\":-66.089331},{\"lat\":18.368571,\"lng\":-66.089805}],\"status\":\"RUNNING\",\"positionChange\":1402093034776,\"route\":\"29\",\"inRoute\":true,\"possibleRoutes\":\"29\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"noreste\",\"avgSpeed\":\"4.6811147\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-23\",\"assetId\":882,\"trail\":[{\"lat\":18.404455,\"lng\":-66.052023},{\"lat\":18.404946,\"lng\":-66.052018},{\"lat\":18.405463,\"lng\":-66.052001}],\"status\":\"RUNNING\",\"positionChange\":1402093034807,\"route\":\"40\",\"inRoute\":true,\"possibleRoutes\":\"40\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"sur\",\"avgSpeed\":\"8.927407\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-24\",\"assetId\":832,\"trail\":[{\"lat\":18.44218,\"lng\":-66.117515},{\"lat\":18.442316,\"lng\":-66.117264},{\"lat\":18.442451,\"lng\":-66.117101}],\"status\":\"RUNNING\",\"positionChange\":1402093034826,\"route\":\"37\",\"inRoute\":true,\"possibleRoutes\":\"37\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"2.9986281\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-25\",\"assetId\":874,\"trail\":[{\"lat\":18.388141,\"lng\":-66.081511}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124397,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-26\",\"assetId\":878,\"trail\":[{\"lat\":18.380163,\"lng\":-66.093655},{\"lat\":18.380379,\"lng\":-66.093581},{\"lat\":18.380528,\"lng\":-66.093528}],\"status\":\"RUNNING\",\"positionChange\":1402093034853,\"route\":\"52\",\"inRoute\":true,\"possibleRoutes\":\"52\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"sur\",\"avgSpeed\":\"5.9648046\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-28\",\"assetId\":954,\"trail\":[{\"lat\":18.388093,\"lng\":-66.081293}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124403,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-30\",\"assetId\":835,\"trail\":[{\"lat\":18.409811,\"lng\":-66.055448}],\"status\":\"NOT_REPORTING\",\"positionChange\":1402091704691,\"route\":\"45\",\"inRoute\":true,\"possibleRoutes\":\"45\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-31\",\"assetId\":877,\"trail\":[{\"lat\":18.388461,\"lng\":-66.080821}],\"status\":\"STOPPED\",\"positionChange\":1402072244724,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"noroeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-32\",\"assetId\":948,\"trail\":[{\"lat\":18.38772,\"lng\":-66.081371}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124414,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-33\",\"assetId\":873,\"trail\":[{\"lat\":18.444101,\"lng\":-66.069073},{\"lat\":18.444043,\"lng\":-66.068889},{\"lat\":18.44397,\"lng\":-66.06871}],\"status\":\"RUNNING\",\"positionChange\":1402093034876,\"route\":\"16\",\"inRoute\":true,\"possibleRoutes\":\"16\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"2.177953\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2005-34\",\"assetId\":846,\"trail\":[{\"lat\":18.380463,\"lng\":-65.965198}],\"status\":\"IDLE\",\"positionChange\":1401851124420,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-01\",\"assetId\":831,\"trail\":[{\"lat\":18.389075,\"lng\":-66.091628}],\"status\":\"STOPPED\",\"positionChange\":1401883914365,\"route\":\"52\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"3.402657\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-02\",\"assetId\":960,\"trail\":[{\"lat\":18.421871,\"lng\":-65.991911}],\"status\":\"IDLE\",\"positionChange\":1402088674896,\"route\":\"44\",\"inRoute\":true,\"possibleRoutes\":\"44\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-03\",\"assetId\":934,\"trail\":[{\"lat\":18.388491,\"lng\":-66.080228}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124428,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-04\",\"assetId\":850,\"trail\":[{\"lat\":18.38815,\"lng\":-66.081208}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124431,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-06\",\"assetId\":845,\"trail\":[{\"lat\":18.388623,\"lng\":-66.081075}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124434,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-07\",\"assetId\":862,\"trail\":[{\"lat\":18.361498,\"lng\":-66.054826},{\"lat\":18.361424,\"lng\":-66.054598},{\"lat\":18.361395,\"lng\":-66.054424}],\"status\":\"RUNNING\",\"positionChange\":1402092544869,\"route\":\"18\",\"inRoute\":true,\"possibleRoutes\":\"18\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-10\",\"assetId\":888,\"trail\":[{\"lat\":18.412006,\"lng\":-66.099485},{\"lat\":18.411873,\"lng\":-66.099843},{\"lat\":18.411791,\"lng\":-66.100072}],\"status\":\"RUNNING\",\"positionChange\":1402093014905,\"route\":\"30\",\"inRoute\":true,\"possibleRoutes\":\"30\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"3.6386764\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-11\",\"assetId\":848,\"trail\":[{\"lat\":18.435211,\"lng\":-66.059726}],\"status\":\"IDLE\",\"positionChange\":1402093034939,\"route\":\"21\",\"inRoute\":true,\"possibleRoutes\":\"21\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"sur\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-12\",\"assetId\":881,\"trail\":[{\"lat\":18.427161,\"lng\":-65.979513},{\"lat\":18.427173,\"lng\":-65.979411},{\"lat\":18.427218,\"lng\":-65.979048}],\"status\":\"RUNNING\",\"positionChange\":1402093034995,\"route\":\"43\",\"inRoute\":true,\"possibleRoutes\":\"43\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"4.874068\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-13\",\"assetId\":866,\"trail\":[{\"lat\":18.388606,\"lng\":-66.079918}],\"status\":\"STOPPED\",\"positionChange\":1401898504737,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"norte\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-15\",\"assetId\":823,\"trail\":[{\"lat\":18.388375,\"lng\":-66.08098}],\"status\":\"STOPPED\",\"positionChange\":1401929294665,\"route\":\"4\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"13.439871\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-16\",\"assetId\":894,\"trail\":[{\"lat\":18.39999,\"lng\":-66.045164},{\"lat\":18.399826,\"lng\":-66.045185},{\"lat\":18.399906,\"lng\":-66.045401}],\"status\":\"RUNNING\",\"positionChange\":1402092925338,\"route\":\"26\",\"inRoute\":true,\"possibleRoutes\":\"26,18,28,31,29,4,3\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"noroeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-17\",\"assetId\":821,\"trail\":[{\"lat\":18.38857,\"lng\":-66.080053}],\"status\":\"STOPPED\",\"positionChange\":1402071584964,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"noreste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-18\",\"assetId\":870,\"trail\":[{\"lat\":18.390644,\"lng\":-66.062256},{\"lat\":18.390475,\"lng\":-66.062394},{\"lat\":18.390253,\"lng\":-66.062593}],\"status\":\"RUNNING\",\"positionChange\":1402093035093,\"route\":\"4\",\"inRoute\":true,\"possibleRoutes\":\"4\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"noreste\",\"avgSpeed\":\"8.062957\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-20\",\"assetId\":855,\"trail\":[{\"lat\":18.388795,\"lng\":-66.081021}],\"status\":\"STOPPED\",\"positionChange\":1401932265164,\"route\":\"52\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"8.936063\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-21\",\"assetId\":942,\"trail\":[{\"lat\":18.45484,\"lng\":-66.066075},{\"lat\":18.454815,\"lng\":-66.06577},{\"lat\":18.454773,\"lng\":-66.065391}],\"status\":\"RUNNING\",\"positionChange\":1402093035146,\"route\":\"10\",\"inRoute\":true,\"possibleRoutes\":\"10\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"1.8862426\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-22\",\"assetId\":895,\"trail\":[{\"lat\":18.388521,\"lng\":-66.080045}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124488,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-23\",\"assetId\":959,\"trail\":[{\"lat\":18.388181,\"lng\":-66.081456}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124493,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-24\",\"assetId\":964,\"trail\":[{\"lat\":18.388141,\"lng\":-66.081345}],\"status\":\"STOPPED\",\"positionChange\":1401851124498,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-25\",\"assetId\":849,\"trail\":[{\"lat\":18.43575,\"lng\":-66.060438},{\"lat\":18.435586,\"lng\":-66.06044},{\"lat\":18.435426,\"lng\":-66.06036}],\"status\":\"RUNNING\",\"positionChange\":1402093035189,\"route\":\"11\",\"inRoute\":true,\"possibleRoutes\":\"11\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"noroeste\",\"avgSpeed\":\"1.8741571\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-26\",\"assetId\":871,\"trail\":[{\"lat\":18.388586,\"lng\":-66.081128}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124507,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-28\",\"assetId\":885,\"trail\":[{\"lat\":18.38373,\"lng\":-66.079499}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124512,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2007-29\",\"assetId\":833,\"trail\":[{\"lat\":18.388695,\"lng\":-66.08011}],\"status\":\"LOW_BATTERY\",\"positionChange\":1402067235047,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"20073\",\"assetId\":1086,\"trail\":[{\"lat\":18.435089,\"lng\":-66.046617},{\"lat\":18.435108,\"lng\":-66.0468},{\"lat\":18.435128,\"lng\":-66.046964}],\"status\":\"RUNNING\",\"positionChange\":1402093035228,\"route\":\"11\",\"inRoute\":true,\"possibleRoutes\":\"11\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"4.87841\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-01\",\"assetId\":1007,\"trail\":[{\"lat\":18.395348,\"lng\":-66.04701},{\"lat\":18.395296,\"lng\":-66.046301},{\"lat\":18.395291,\"lng\":-66.045655}],\"status\":\"RUNNING\",\"positionChange\":1402093035267,\"route\":\"7\",\"inRoute\":true,\"possibleRoutes\":\"7\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"9.494669\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-02\",\"assetId\":996,\"trail\":[{\"lat\":18.388178,\"lng\":-66.080734}],\"status\":\"STOPPED\",\"positionChange\":1402073034840,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-03\",\"assetId\":1032,\"trail\":[{\"lat\":18.388083,\"lng\":-66.081333}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124535,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-04\",\"assetId\":1020,\"trail\":[{\"lat\":18.427213,\"lng\":-65.989906},{\"lat\":18.427059,\"lng\":-65.989808},{\"lat\":18.426663,\"lng\":-65.989641}],\"status\":\"RUNNING\",\"positionChange\":1402093035310,\"route\":\"5\",\"inRoute\":true,\"possibleRoutes\":\"5\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"noroeste\",\"avgSpeed\":\"5.4059615\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-05\",\"assetId\":1024,\"trail\":[{\"lat\":18.39073,\"lng\":-66.067966},{\"lat\":18.390763,\"lng\":-66.067761},{\"lat\":18.390965,\"lng\":-66.067318}],\"status\":\"RUNNING\",\"positionChange\":1402093025284,\"route\":\"4\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"11.4688\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-06\",\"assetId\":1016,\"trail\":[{\"lat\":18.387635,\"lng\":-66.081458}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124548,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-07\",\"assetId\":1017,\"trail\":[{\"lat\":18.464824,\"lng\":-66.110448}],\"status\":\"STOPPED\",\"positionChange\":1402091245205,\"route\":\"21\",\"inRoute\":true,\"possibleRoutes\":\"21\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-08\",\"assetId\":1010,\"trail\":[{\"lat\":18.383463,\"lng\":-66.143249},{\"lat\":18.383643,\"lng\":-66.143435},{\"lat\":18.383933,\"lng\":-66.14371}],\"status\":\"RUNNING\",\"positionChange\":1402093035366,\"route\":\"52\",\"inRoute\":true,\"possibleRoutes\":\"52\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"sureste\",\"avgSpeed\":\"7.2615004\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-09\",\"assetId\":995,\"trail\":[{\"lat\":18.464718,\"lng\":-66.110611}],\"status\":\"IDLE\",\"positionChange\":1402092105534,\"route\":\"9\",\"inRoute\":true,\"possibleRoutes\":\"9\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-10\",\"assetId\":1025,\"trail\":[{\"lat\":18.437915,\"lng\":-66.058645},{\"lat\":18.437905,\"lng\":-66.058825},{\"lat\":18.437885,\"lng\":-66.059115}],\"status\":\"RUNNING\",\"positionChange\":1402093035382,\"route\":\"9\",\"inRoute\":true,\"possibleRoutes\":\"9\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"2.8389153\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-11\",\"assetId\":997,\"trail\":[{\"lat\":18.381336,\"lng\":-66.063648},{\"lat\":18.38182,\"lng\":-66.063446},{\"lat\":18.382296,\"lng\":-66.063225}],\"status\":\"RUNNING\",\"positionChange\":1402093035411,\"route\":\"31\",\"inRoute\":true,\"possibleRoutes\":\"31\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"6.7278914\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-13\",\"assetId\":993,\"trail\":[{\"lat\":18.424043,\"lng\":-66.057404},{\"lat\":18.424355,\"lng\":-66.057435},{\"lat\":18.424823,\"lng\":-66.05758}],\"status\":\"RUNNING\",\"positionChange\":1402093015234,\"route\":\"3\",\"inRoute\":true,\"possibleRoutes\":\"3\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"sur\",\"avgSpeed\":\"4.7116117\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-14\",\"assetId\":994,\"trail\":[{\"lat\":18.399273,\"lng\":-66.126659},{\"lat\":18.399251,\"lng\":-66.126318},{\"lat\":18.399233,\"lng\":-66.125893}],\"status\":\"RUNNING\",\"positionChange\":1402093015253,\"route\":\"2\",\"inRoute\":true,\"possibleRoutes\":\"2\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"2.3649242\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-15\",\"assetId\":1005,\"trail\":[{\"lat\":18.405671,\"lng\":-66.112195},{\"lat\":18.405418,\"lng\":-66.112629},{\"lat\":18.40516,\"lng\":-66.113065}],\"status\":\"RUNNING\",\"positionChange\":1402093035451,\"route\":\"2\",\"inRoute\":true,\"possibleRoutes\":\"2\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"noreste\",\"avgSpeed\":\"3.2509007\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-16\",\"assetId\":1019,\"trail\":[{\"lat\":18.388513,\"lng\":-66.081326}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124591,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-17\",\"assetId\":1002,\"trail\":[{\"lat\":18.452003,\"lng\":-66.063182},{\"lat\":18.451938,\"lng\":-66.062736},{\"lat\":18.451863,\"lng\":-66.062199}],\"status\":\"RUNNING\",\"positionChange\":1402093035476,\"route\":\"5\",\"inRoute\":true,\"possibleRoutes\":\"5\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"4.342904\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-18\",\"assetId\":1003,\"trail\":[{\"lat\":18.409911,\"lng\":-66.05534}],\"status\":\"NOT_REPORTING\",\"positionChange\":1402092955558,\"route\":\"17\",\"inRoute\":true,\"possibleRoutes\":\"17\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-19\",\"assetId\":1027,\"trail\":[{\"lat\":18.387666,\"lng\":-66.081503}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124599,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-20\",\"assetId\":1012,\"trail\":[{\"lat\":18.401784,\"lng\":-66.043391},{\"lat\":18.401091,\"lng\":-66.043387},{\"lat\":18.400561,\"lng\":-66.043346}],\"status\":\"RUNNING\",\"positionChange\":1402093035510,\"route\":\"40\",\"inRoute\":true,\"possibleRoutes\":\"15,40\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"norte\",\"avgSpeed\":\"3.3457012\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-21\",\"assetId\":1030,\"trail\":[{\"lat\":18.4,\"lng\":-66.043706}],\"status\":\"IDLE\",\"positionChange\":1402092735601,\"route\":\"29\",\"inRoute\":true,\"possibleRoutes\":\"18,31,29,4\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"sur\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-22\",\"assetId\":1006,\"trail\":[{\"lat\":18.454338,\"lng\":-66.080105},{\"lat\":18.454216,\"lng\":-66.079915},{\"lat\":18.454128,\"lng\":-66.079787}],\"status\":\"RUNNING\",\"positionChange\":1402092875356,\"route\":\"5\",\"inRoute\":true,\"possibleRoutes\":\"5\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"noroeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-23\",\"assetId\":1028,\"trail\":[{\"lat\":18.38849,\"lng\":-66.08015}],\"status\":\"STOPPED\",\"positionChange\":1402078375427,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"sureste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-24\",\"assetId\":1021,\"trail\":[{\"lat\":18.421666,\"lng\":-65.992284}],\"status\":\"STOPPED\",\"positionChange\":1402091315387,\"route\":\"7\",\"inRoute\":true,\"possibleRoutes\":\"7\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-25\",\"assetId\":1009,\"trail\":[{\"lat\":18.442349,\"lng\":-66.021781},{\"lat\":18.442383,\"lng\":-66.021973},{\"lat\":18.442401,\"lng\":-66.02215}],\"status\":\"RUNNING\",\"positionChange\":1402093025523,\"route\":\"53\",\"inRoute\":true,\"possibleRoutes\":\"53\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"1.1239836\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-26\",\"assetId\":1015,\"trail\":[{\"lat\":18.388275,\"lng\":-66.080254}],\"status\":\"LOW_BATTERY\",\"positionChange\":1402073025059,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-27\",\"assetId\":1004,\"trail\":[{\"lat\":18.414551,\"lng\":-65.994904},{\"lat\":18.414354,\"lng\":-65.995408},{\"lat\":18.414088,\"lng\":-65.995977}],\"status\":\"RUNNING\",\"positionChange\":1402093035598,\"route\":\"7\",\"inRoute\":true,\"possibleRoutes\":\"7\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"noreste\",\"avgSpeed\":\"7.739788\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-28\",\"assetId\":999,\"trail\":[{\"lat\":18.411383,\"lng\":-65.977739},{\"lat\":18.410631,\"lng\":-65.977511},{\"lat\":18.409888,\"lng\":-65.977293}],\"status\":\"RUNNING\",\"positionChange\":1402093035619,\"route\":\"6\",\"inRoute\":true,\"possibleRoutes\":\"6\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"norte\",\"avgSpeed\":\"3.8174577\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-29\",\"assetId\":1029,\"trail\":[{\"lat\":18.45682,\"lng\":-66.089319},{\"lat\":18.456585,\"lng\":-66.088946},{\"lat\":18.456425,\"lng\":-66.088673}],\"status\":\"RUNNING\",\"positionChange\":1402093035651,\"route\":\"53\",\"inRoute\":true,\"possibleRoutes\":\"53\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"7.897109\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-30\",\"assetId\":1008,\"trail\":[{\"lat\":18.387821,\"lng\":-66.081415}],\"status\":\"LOW_BATTERY\",\"positionChange\":1402061015308,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"suroeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-31\",\"assetId\":1018,\"trail\":[{\"lat\":18.38772,\"lng\":-66.080788}],\"status\":\"IDLE\",\"positionChange\":1401920235800,\"route\":\"29\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"noreste\",\"avgSpeed\":\"10.077684\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-32\",\"assetId\":998,\"trail\":[{\"lat\":18.399923,\"lng\":-66.043813},{\"lat\":18.40009,\"lng\":-66.043823},{\"lat\":18.400171,\"lng\":-66.043948}],\"status\":\"RUNNING\",\"positionChange\":1402092926099,\"route\":\"3\",\"inRoute\":true,\"possibleRoutes\":\"3\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-33\",\"assetId\":1014,\"trail\":[{\"lat\":18.451454,\"lng\":-66.058938},{\"lat\":18.45148,\"lng\":-66.059115},{\"lat\":18.451515,\"lng\":-66.059318}],\"status\":\"RUNNING\",\"positionChange\":1402092996170,\"route\":\"5\",\"inRoute\":true,\"possibleRoutes\":\"5\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"este\",\"avgSpeed\":\"0.86284524\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-34\",\"assetId\":1026,\"trail\":[{\"lat\":18.438946,\"lng\":-66.124876}],\"status\":\"STOPPED\",\"positionChange\":1402092325353,\"route\":\"3\",\"inRoute\":true,\"possibleRoutes\":\"3\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-35\",\"assetId\":1011,\"trail\":[{\"lat\":18.388208,\"lng\":-66.081985}],\"status\":\"LOW_BATTERY\",\"positionChange\":1402043915523,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"0.0\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-36\",\"assetId\":1013,\"trail\":[{\"lat\":18.387674,\"lng\":-66.081473}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124648,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-37\",\"assetId\":1022,\"trail\":[{\"lat\":18.38808,\"lng\":-66.081393}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124650,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-38\",\"assetId\":1000,\"trail\":[{\"lat\":18.437486,\"lng\":-66.060241},{\"lat\":18.437215,\"lng\":-66.060196},{\"lat\":18.436898,\"lng\":-66.060182}],\"status\":\"RUNNING\",\"positionChange\":1402093035724,\"route\":\"9\",\"inRoute\":true,\"possibleRoutes\":\"9\",\"destination\":null,\"withinServiceArea\":true,\"props\":{\"cardinal\":\"norte\",\"avgSpeed\":\"1.9355048\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-39\",\"assetId\":1031,\"trail\":[{\"lat\":18.387828,\"lng\":-66.081447}],\"status\":\"STOPPED\",\"positionChange\":1402059335632,\"route\":\"4\",\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"oeste\",\"avgSpeed\":\"10.785512\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2010-40\",\"assetId\":1023,\"trail\":[{\"lat\":18.388066,\"lng\":-66.081501}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124658,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-01\",\"assetId\":1097,\"trail\":[{\"lat\":18.38794,\"lng\":-66.081864}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124660,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-01 (03)\",\"assetId\":1099,\"trail\":[{\"lat\":18.387903,\"lng\":-66.081981}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124663,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-02 (15)\",\"assetId\":1111,\"trail\":[{\"lat\":18.387941,\"lng\":-66.081968}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124667,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-03 (13)\",\"assetId\":1109,\"trail\":[{\"lat\":18.38794,\"lng\":-66.081935}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124669,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-04 (16)\",\"assetId\":1112,\"trail\":[{\"lat\":18.387959,\"lng\":-66.081896}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124672,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-06 (04)\",\"assetId\":1100,\"trail\":[{\"lat\":18.387941,\"lng\":-66.081856}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124674,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-07 (02)\",\"assetId\":1098,\"trail\":[{\"lat\":18.387975,\"lng\":-66.08181}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124677,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-08 (12)\",\"assetId\":1108,\"trail\":[{\"lat\":18.387965,\"lng\":-66.081785}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124679,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-09 (09)\",\"assetId\":1105,\"trail\":[{\"lat\":18.387975,\"lng\":-66.081757}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124682,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-13 (14)\",\"assetId\":1110,\"trail\":[{\"lat\":18.388029,\"lng\":-66.081627}],\"status\":\"STOPPED\",\"positionChange\":1401851124685,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}},{\"vehicle\":\"2013-16 (05)\",\"assetId\":1101,\"trail\":[{\"lat\":18.388028,\"lng\":-66.081531}],\"status\":\"LOW_BATTERY\",\"positionChange\":1401851124687,\"route\":null,\"inRoute\":false,\"possibleRoutes\":\"\",\"destination\":null,\"withinServiceArea\":false,\"props\":{\"cardinal\":\"null\",\"avgSpeed\":\"null\",\"withinOrigin\":\"false\"}}]}",
+			" </",
+			"205"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "LeapVisualizer.cpp",
+					"settings":
+					{
+						"buffer_size": 22967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4072,
+								4072
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3175.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "LeapVisualizer.h",
+					"settings":
+					{
+						"buffer_size": 1485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 459.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.cpp",
+					"settings":
+					{
+						"buffer_size": 343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ofApp.cpp",
+					"settings":
+					{
+						"buffer_size": 15935,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2109,
+								2109
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1581.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ofApp.h",
+					"settings":
+					{
+						"buffer_size": 959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								830,
+								830
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true
+}
